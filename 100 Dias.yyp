@@ -37,6 +37,7 @@
     {"id":{"name":"Chao","path":"objects/Chao/Chao.yy",},},
     {"id":{"name":"Jogador","path":"objects/Jogador/Jogador.yy",},},
     {"id":{"name":"Obj_Camera","path":"objects/Obj_Camera/Obj_Camera.yy",},},
+    {"id":{"name":"Obj_Flecha","path":"objects/Obj_Flecha/Obj_Flecha.yy",},},
     {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
