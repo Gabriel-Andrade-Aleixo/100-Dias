@@ -20,3 +20,13 @@ if (keyboard_check_pressed(ord("D")) or keyboard_check_pressed(vk_right)) and im
 }
 ```
  Ao andar ele verifica se está negativo ou positivo a escala x da sprite, dependendo do resultado ele vira para o lado que está andando. Entretanto, ao fazer isso existe o erro que se vc clicar para andar para o outro lado sem soltar a tecla, ele irá virar, e se soltar ele continuará virado para o lado errado.
+
+## Dia 003/100
+
+Hoje Criei a função de atirar flechas, ao clicar o botão direito do mause, ainda não está mudando o ângulo da flecha ao cair, futuramente adicionarei
+
+## Dia 004/100
+
+Hoje o dia foi mais tranquilo pois apenas fiquei fazendo a pixel art de como seria, decidi me basear em celeste
+<br/>
+Fiz apenas a arte do personagem inicial, atualmente está sem animações
