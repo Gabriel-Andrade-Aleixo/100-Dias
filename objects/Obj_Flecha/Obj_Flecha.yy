@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite6",
-    "path":"sprites/Sprite6/Sprite6.yy",
+    "name":"Flecha",
+    "path":"sprites/Flecha/Flecha.yy",
   },
   "spriteMaskId":null,
   "visible":true,

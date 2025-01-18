@@ -40,8 +40,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"Sprite4",
-    "path":"sprites/Sprite4/Sprite4.yy",
+    "name":"Archer",
+    "path":"sprites/Archer/Archer.yy",
   },
   "spriteMaskId":null,
   "visible":true,
