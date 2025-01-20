@@ -30,3 +30,9 @@ Hoje Criei a função de atirar flechas, ao clicar o botão direito do mause, ai
 Hoje o dia foi mais tranquilo pois apenas fiquei fazendo a pixel art de como seria, decidi me basear em celeste
 <br/>
 Fiz apenas a arte do personagem inicial, atualmente está sem animações
+
+## Dia 005/100
+
+Neste dia fiz um pequeno sistema de vida, o jogador tem um total de 12 de vida, quando ela zera o jogo é reiniciado, talvez eu possa fazer um sistema de salvar futuramente.
+<br/>
+Também fiz uma barra de vida simples, talvez eu mude ela alguma hora.
