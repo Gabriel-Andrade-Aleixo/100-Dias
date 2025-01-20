@@ -26,10 +26,7 @@ if keyboard_check(vk_shift) {
 
 // Reseta a posição e as velocidades do jogador ao pressionar R
 if (Reset) {
-    x = 250; // Posição inicial no eixo X
-    y = 250; // Posição inicial no eixo Y
-    hspd = 0; // Velocidade horizontal zerada
-    vspd = 0; // Velocidade vertical zerada
+    game_restart();
 }
 #endregion
 
@@ -96,5 +93,11 @@ if (MouseDir && global.flechas > 0) {
     flecha.speed = 10; // Define a velocidade da flecha
     flecha.direction = point_direction(x, y, mouse_x, mouse_y); // Define a direção em direção ao mouse
     flecha.image_angle = flecha.direction; // Define o ângulo da imagem para coincidir com a direção
+}
+#endregion
+
+#region Vida
+if (global.vida < 0) {
+	game_restart();
 }
 #endregion
