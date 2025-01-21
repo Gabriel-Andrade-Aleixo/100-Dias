@@ -41,8 +41,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"Archer",
-    "path":"sprites/Archer/Archer.yy",
+    "name":"Ocioso",
+    "path":"sprites/Ocioso/Ocioso.yy",
   },
   "spriteMaskId":null,
   "visible":true,
