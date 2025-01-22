@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"JogadorStatePause",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"JogadorStatePause",
+  "parent":{
+    "name":"Jogador",
+    "path":"folders/Scripts/Jogador.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

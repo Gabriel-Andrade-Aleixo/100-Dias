@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"JogadorStateFree",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"JogadorStateFree",
+  "parent":{
+    "name":"Jogador",
+    "path":"folders/Scripts/Jogador.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

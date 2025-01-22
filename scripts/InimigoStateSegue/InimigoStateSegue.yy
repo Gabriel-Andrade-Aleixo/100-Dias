@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"InimigoStateSegue",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"InimigoStateSegue",
+  "parent":{
+    "name":"Inimigo",
+    "path":"folders/Scripts/Inimigo.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
