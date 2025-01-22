@@ -42,3 +42,11 @@ Também fiz uma barra de vida simples, talvez eu mude ela alguma hora.
 Hoje fiz basicamente a animação do personagem caminhando e parado, por mais que não tenha ficado grande coisa.
 <br/>
 A proxima sera de atk e as sprites dos monstros e depois fazer o cenario.
+
+## Dia 007/100
+
+Hoje fiz muitas coisas, coloquei a animação para o personagem ficar parado e andando, porém está com um problema que ao andar para a direita a animação roda ao contrario.
+<br/>
+Comecei a fazer os inimigos e o cenário.
+<br/>
+Talvez amanhã eu foque no cenário
