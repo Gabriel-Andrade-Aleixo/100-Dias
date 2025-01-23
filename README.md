@@ -50,3 +50,7 @@ Hoje fiz muitas coisas, coloquei a animação para o personagem ficar parado e a
 Comecei a fazer os inimigos e o cenário.
 <br/>
 Talvez amanhã eu foque no cenário
+
+## Dia 008/100
+
+Neste dia foquei apenas nas sprites, troquei a flecha por uma bola de energia e fiz o cenário inicial, sendo uma simples floresta.
