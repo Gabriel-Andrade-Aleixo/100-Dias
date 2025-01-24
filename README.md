@@ -54,3 +54,9 @@ Talvez amanhã eu foque no cenário
 ## Dia 008/100
 
 Neste dia foquei apenas nas sprites, troquei a flecha por uma bola de energia e fiz o cenário inicial, sendo uma simples floresta.
+
+## Dia 009/100
+
+Fiz a movimentação do inimigo aso se aproximar e fiz a pixel art do primeiro inimigo, que é um slime
+
+<img src="\Aseprite\Inimigos\Slime\Ocioso\Slime.gif" alt="Pixel_art_Slime">
