@@ -23,7 +23,7 @@
   ],
   "name":"EnemigoAtk",
   "nineSlice":null,
-  "origin":4,
+  "origin":7,
   "parent":{
     "name":"Inimigo",
     "path":"folders/Sprites/Inimigo.yy",
@@ -76,7 +76,7 @@
     "visibleRange":null,
     "volume":1.0,
     "xorigin":18,
-    "yorigin":29,
+    "yorigin":59,
   },
   "swatchColours":null,
   "swfPrecision":0.5,

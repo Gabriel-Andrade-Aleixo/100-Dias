@@ -1,5 +1,5 @@
-//switch (state){
-//	case InimigoState.IDLE: EnemyStateIdle (); break;
-//	case InimigoState.CHASE: EnemyStateChase (); break;
-//	case InimigoState.ATKENEMIGO: EnemyStateATK (); break;
-//}
+switch (state){
+	case InimigoState.IDLE: InimigoStateIdle (); break;
+	case InimigoState.CHASE: InimigoStateSegue(); break;
+	case InimigoState.ATKENEMIGO: InimigoStateATK(); break;
+}

@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"InimigoState",
+  "%Name":"InimigoStateIdle",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"InimigoState",
+  "name":"InimigoStateIdle",
   "parent":{
     "name":"Inimigo",
     "path":"folders/Scripts/Inimigo.yy",

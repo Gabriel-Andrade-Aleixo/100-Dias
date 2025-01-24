@@ -1,4 +1,4 @@
-function InimigoState(){
+function InimigoStateIdle(){
 	script_execute(get_input);
 
 	#region Movimento
@@ -32,4 +32,9 @@ function InimigoState(){
 	}
 	y += vspd; // Aplica o movimento vertical
 	#endregion
+
+	if distance_to_object(Jogador) < distance {
+	state = InimigoState.CHASE;
+	sprite_index = EnemigoAtk;
+	}
 }
