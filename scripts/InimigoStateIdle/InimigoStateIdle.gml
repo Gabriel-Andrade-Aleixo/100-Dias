@@ -35,6 +35,6 @@ function InimigoStateIdle(){
 
 	if distance_to_object(Jogador) < distance {
 	state = InimigoState.CHASE;
-	sprite_index = EnemigoAtk;
+	sprite_index = Enemigo;
 	}
 }

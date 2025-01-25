@@ -35,4 +35,12 @@ function InimigoStateSegue(){
 	
 	vir = sign(Jogador.x-x);
 	hspd = vir * 8;
+	
+	if distance_to_object(Jogador) > distance {
+		state = InimigoState.IDLE;
+	}
+	
+	if distance_to_object(Jogador) < 30 {
+		state = InimigoState.ATKENEMIGO;
+	}
 }

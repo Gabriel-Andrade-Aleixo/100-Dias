@@ -13,3 +13,4 @@ enum InimigoState{
 	CHASE,
 	ATKENEMIGO
 }
+
