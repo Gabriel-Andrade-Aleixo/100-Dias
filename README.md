@@ -37,6 +37,9 @@ Neste dia fiz um pequeno sistema de vida, o jogador tem um total de 12 de vida, 
 <br/>
 Também fiz uma barra de vida simples, talvez eu mude ela alguma hora.
 
+<img src="/sprites/SPR_Vida/e94a6cf7-68ba-4570-9056-3d1379f96693.png" alt="Pixel_art_Slime">
+
+
 ## Dia 006/100
 
 Hoje fiz basicamente a animação do personagem caminhando e parado, por mais que não tenha ficado grande coisa.
@@ -50,7 +53,15 @@ Hoje fiz muitas coisas, coloquei a animação para o personagem ficar parado e a
 Comecei a fazer os inimigos e o cenário.
 <br/>
 Talvez amanhã eu foque no cenário
+<br/>
+<img src="/sprites/Ocioso/2a764833-a709-4707-8808-4f5b9550a7f1.png" alt="Jogador parado 1 frame" width="50">
 
 ## Dia 008/100
 
 Neste dia foquei apenas nas sprites, troquei a flecha por uma bola de energia e fiz o cenário inicial, sendo uma simples floresta.
+
+## Dia 009/100
+
+Fiz a movimentação do inimigo aso se aproximar e fiz a pixel art do primeiro inimigo, que é um slime
+
+<img src="\Aseprite\Inimigos\Slime\Ocioso\Slime.gif" alt="Pixel_art_Slime" width="200">
