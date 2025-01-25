@@ -65,3 +65,7 @@ Neste dia foquei apenas nas sprites, troquei a flecha por uma bola de energia e 
 Fiz a movimentação do inimigo aso se aproximar e fiz a pixel art do primeiro inimigo, que é um slime
 
 <img src="\Aseprite\Inimigos\Slime\Ocioso\Slime.gif" alt="Pixel_art_Slime" width="200">
+
+## Dia 010/100
+
+Hoje não fiz quase nada, fiz apenas uma troca de sprite que ainda vou criar para os inimigos, preciso fazer eles darem dano
