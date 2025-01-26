@@ -14,4 +14,13 @@ if state = InimigoState.ATKENEMIGO{
 	sprite_index = EnemigoAtk;
 }
 
+if state = InimigoState.CHASE{
+	sprite_index = EnemigoAnd;
+	image_speed = 2;
+}
 
+if (image_index >= image_number - 1) {
+	if (distance_to_object(Jogador) < 50){
+		global.vida --;
+	}
+}

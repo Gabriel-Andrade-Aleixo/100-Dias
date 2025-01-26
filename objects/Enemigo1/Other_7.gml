@@ -1,3 +1,3 @@
-//if sprite_index = Obj_Flecha{
-//	state = InimigoState.IDLE 
+//if (distance_to_object(Jogador) < 30){
+//	global.vida --
 //}

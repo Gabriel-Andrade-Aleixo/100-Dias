@@ -57,6 +57,7 @@
     {"id":{"name":"agua","path":"sprites/agua/agua.yy",},},
     {"id":{"name":"BC1","path":"sprites/BC1/BC1.yy",},},
     {"id":{"name":"Enemigo","path":"sprites/Enemigo/Enemigo.yy",},},
+    {"id":{"name":"EnemigoAnd","path":"sprites/EnemigoAnd/EnemigoAnd.yy",},},
     {"id":{"name":"EnemigoAtk","path":"sprites/EnemigoAtk/EnemigoAtk.yy",},},
     {"id":{"name":"Flecha","path":"sprites/Flecha/Flecha.yy",},},
     {"id":{"name":"ForestTronco","path":"sprites/ForestTronco/ForestTronco.yy",},},

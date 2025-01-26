@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Enemigo",
-    "path":"sprites/Enemigo/Enemigo.yy",
+    "name":"EnemigoAnd",
+    "path":"sprites/EnemigoAnd/EnemigoAnd.yy",
   },
   "spriteMaskId":null,
   "visible":true,

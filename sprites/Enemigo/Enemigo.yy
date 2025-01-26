@@ -30,7 +30,7 @@
   ],
   "name":"Enemigo",
   "nineSlice":null,
-  "origin":4,
+  "origin":7,
   "parent":{
     "name":"Inimigo",
     "path":"folders/Sprites/Inimigo.yy",
@@ -104,7 +104,7 @@
     "visibleRange":null,
     "volume":1.0,
     "xorigin":32,
-    "yorigin":27,
+    "yorigin":54,
   },
   "swatchColours":null,
   "swfPrecision":0.5,

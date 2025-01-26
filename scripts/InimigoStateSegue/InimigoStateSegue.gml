@@ -4,12 +4,12 @@ function InimigoStateSegue(){
 	#region Movimento
 	vspd += grv; // Adiciona a gravidade à velocidade vertical
 
-	if (hspd < 0) and image_xscale >= 0 {
-	    image_xscale *= -1; // Espelha a imagem horizontalmente para a esquerda
-	}
-	if (hspd > 0) and image_xscale <= 0 {
-	    image_xscale *= -1; // Espelha a imagem horizontalmente para a direita
-	}
+	//if (hspd < 0) and image_xscale >= 0 {
+	//    image_xscale *= -1; // Espelha a imagem horizontalmente para a esquerda
+	//}
+	//if (hspd > 0) and image_xscale <= 0 {
+	//    image_xscale *= -1; // Espelha a imagem horizontalmente para a direita
+	//}
 
 
 	// Colisão horizontal
