@@ -79,3 +79,9 @@ Fiz as sprites do slime atacando e andando.
 ## Dia 012/100
 
 Hoje consegui implementar o dano do inimigo ao atacar, porém está com um dano muito inconsistente.
+
+## Dia 013/100
+
+Fiz um item de vida para se curar e mudei a vida do inimigo, agora são necessários 2 rits para matar ele.
+
+<img src="Aseprite/Pegaveis/Vida/x1/Vida1.gif" width="200">
