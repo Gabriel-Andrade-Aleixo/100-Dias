@@ -11,3 +11,6 @@ if (keyboard_check_pressed(vk_escape)) {
     }
 }
 
+if (global.vida > 11){
+	global.vida = 11;
+}

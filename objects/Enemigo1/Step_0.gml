@@ -24,3 +24,7 @@ if (image_index >= image_number - 1) {
 		global.vida --;
 	}
 }
+
+if (VidaMonstro == 0){
+	instance_destroy();
+}
