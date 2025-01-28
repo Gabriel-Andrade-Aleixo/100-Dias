@@ -23,13 +23,13 @@ if (keyboard_check_pressed(ord("D")) or keyboard_check_pressed(vk_right)) and im
 
 ## Dia 003/100
 
-Hoje Criei a função de atirar flechas, ao clicar o botão direito do mause, ainda não está mudando o ângulo da flecha ao cair, futuramente adicionarei
+Hoje Criei a função de atirar flechas, ao clicar o botão direito do mause, ainda não está mudando o ângulo da flecha ao cair, futuramente adicionarei.
 
 ## Dia 004/100
 
-Hoje o dia foi mais tranquilo pois apenas fiquei fazendo a pixel art de como seria, decidi me basear em celeste
+Hoje o dia foi mais tranquilo pois apenas fiquei fazendo a pixel art de como seria, decidi me basear em celeste.
 <br/>
-Fiz apenas a arte do personagem inicial, atualmente está sem animações
+Fiz apenas a arte do personagem inicial, atualmente está sem animações.
 
 ## Dia 005/100
 
@@ -52,7 +52,7 @@ Hoje fiz muitas coisas, coloquei a animação para o personagem ficar parado e a
 <br/>
 Comecei a fazer os inimigos e o cenário.
 <br/>
-Talvez amanhã eu foque no cenário
+Talvez amanhã eu foque no cenário.
 <br/>
 <img src="/sprites/Ocioso/2a764833-a709-4707-8808-4f5b9550a7f1.png" alt="Jogador parado 1 frame" width="50">
 
@@ -62,10 +62,20 @@ Neste dia foquei apenas nas sprites, troquei a flecha por uma bola de energia e 
 
 ## Dia 009/100
 
-Fiz a movimentação do inimigo aso se aproximar e fiz a pixel art do primeiro inimigo, que é um slime
+Fiz a movimentação do inimigo aso se aproximar e fiz a pixel art do primeiro inimigo, que é um slime.
 
 <img src="\Aseprite\Inimigos\Slime\Ocioso\Slime.gif" alt="Pixel_art_Slime" width="200">
 
 ## Dia 010/100
 
-Hoje não fiz quase nada, fiz apenas uma troca de sprite que ainda vou criar para os inimigos, preciso fazer eles darem dano
+Hoje não fiz quase nada, fiz apenas uma troca de sprite que ainda vou criar para os inimigos, preciso fazer eles darem dano.
+
+## Dia 011/100
+
+Fiz as sprites do slime atacando e andando.
+
+<img src="Aseprite/Inimigos/Slime/ATK/SlimeATK.gif" alt="Pixel_art_Slime" width="200"> <img src="Aseprite/Inimigos/Slime/Andando/SlimeMove.gif" alt="Pixel_art_Slime" width="200">
+
+## Dia 012/100
+
+Hoje consegui implementar o dano do inimigo ao atacar, porém está com um dano muito inconsistente.
