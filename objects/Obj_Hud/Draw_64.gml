@@ -46,3 +46,4 @@ if global.vida = 1 {
 if global.vida = 0 {
 	draw_sprite(SPR_Vida, 0, 50, 50)
 }
+
