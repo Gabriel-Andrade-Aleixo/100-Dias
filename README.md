@@ -85,3 +85,17 @@ Hoje consegui implementar o dano do inimigo ao atacar, porém está com um dano 
 Fiz um item de vida para se curar e mudei a vida do inimigo, agora são necessários 2 rits para matar ele.
 
 <img src="Aseprite/Pegaveis/Vida/x1/Vida1.gif" width="200">
+
+## Dia 014/100
+
+Criei uma sprite para munição, por mais que não seja muito relacionado, uma hora vai fazer sentido
+
+<img src="Aseprite/Pegaveis/Municao/MunicaoGeral.gif" alt="Pixel_art_Slime" width="200">
+
+Além disso, fiz exibir na tela a munição e o fps na tela do jogador, com o seguinte código:
+
+```GML
+draw_text(10, 10, "FPS: " + string(fps));
+draw_text(10, 30, "Municao: " + string(global.flechas));
+
+```
