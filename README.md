@@ -99,3 +99,17 @@ draw_text(10, 10, "FPS: " + string(fps));
 draw_text(10, 30, "Municao: " + string(global.flechas));
 
 ```
+
+## Dia 015/100
+
+Hoje fiz pouca coisa, apenas arrumei as incincistencias no dano dos inimigos, agora eles dão 1 de dano ao colidir e ao bater, o que antes era morte quase instantanea.
+
+```GML
+if (place_meeting(x, y, Jogador)) {
+	time_dano += 1;
+	if (time_dano >= time_EntreDano){
+		global.vida -= 1;
+		time_dano = 0;
+	}
+}
+```
