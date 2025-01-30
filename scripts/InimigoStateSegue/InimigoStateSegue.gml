@@ -34,7 +34,7 @@ function InimigoStateSegue(){
 	#endregion
 	
 	vir = sign(Jogador.x-x);
-	hspd = vir * 8;
+	hspd = vir * 4;
 	
 	if distance_to_object(Jogador) > distance {
 		state = InimigoState.IDLE;

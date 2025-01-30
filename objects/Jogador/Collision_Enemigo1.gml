@@ -1,2 +1,2 @@
 //instance_destroy(other);
-global.vida--;
+//global.vida--;

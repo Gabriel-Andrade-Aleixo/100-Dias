@@ -14,3 +14,5 @@ enum InimigoState{
 	ATKENEMIGO
 }
 
+time_dano = 0;
+time_EntreDano = 100;

@@ -4,7 +4,7 @@ function get_input(){
 	Esq = keyboard_check(ord("A")) || keyboard_check(vk_left);
 
 	//teclas para pular foi pressionada (W ou barra de espaço ou seta para cima)
-	Cima = keyboard_check(ord("W")) || keyboard_check(vk_space) || keyboard_check(ord(vk_up)); 
+	Cima = keyboard_check(ord("W")) || keyboard_check(vk_space) || keyboard_check(vk_up); 
 
 	//tecls para movimento para baixo foi pressionada (S ou seta para baixo)
 	Baixo = keyboard_check(ord("S")) || keyboard_check(vk_down);
