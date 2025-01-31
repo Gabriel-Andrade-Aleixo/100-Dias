@@ -113,3 +113,11 @@ if (place_meeting(x, y, Jogador)) {
 	}
 }
 ```
+
+## Dia 016/100
+
+dei uma atualizada no mapa, começando a criar um pequeno tutorial
+
+## Dia 017/100
+
+Criei um boss para o tutorial, igual aos inimigos anteriores, porem agora ele spawna outros slimes
